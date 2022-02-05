@@ -1,0 +1,4 @@
+baseURL = 'https://leydelgato.netlify.app'
+languageCode = 'en-us'
+title = 'La Ley Del Gato - Do more with less'
+theme = "ananke"

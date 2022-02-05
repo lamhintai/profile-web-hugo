@@ -1,0 +1,5 @@
+# Path storing caches to speed up generation
+/resources
+
+# Temp files
+.hugo_build.lock
